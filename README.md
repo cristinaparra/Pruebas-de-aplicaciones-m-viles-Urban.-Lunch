@@ -1,4 +1,4 @@
-###  Proyecto: Pruebas de la aplicación **Urban Lunch**
+###  Pruebas de la aplicación **Urban Lunch**
 
 Realicé **49 casos de prueba** para verificar el correcto funcionamiento de la aplicación *Urban Lunch*.  
 Durante el proceso detecté **5 bugs**, de los cuales **2 fueron de alta prioridad**.
